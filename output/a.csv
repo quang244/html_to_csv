@@ -1,0 +1,48 @@
+Function_Name,DTC_Name,DTC_Code,DTC_Sub_Code
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Many module thermistors in failure,1B05,62
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Many module thermistors in failure,1B05,11
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cooling thermistor input,1B07,15
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Temp 2 thermistor input,1B15,15
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,CAN current sensor (MCPU),1B1F,87
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Module thermistor 1,1B30,11
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Module thermistor 2,1B31,11
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Module thermistor 3,1B32,11
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Module thermistor 4,1B33,11
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Module thermistor 5,1B34,11
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Module thermistor 6,1B35,11
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Module thermistor 7,1B36,11
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Module thermistor 8,1B37,11
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Module thermistor 9,1B38,11
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Module thermistor 10,1B39,11
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Module thermistor 11,1B3A,11
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Module thermistor 12,1B3B,11
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 1,1B60,12
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 6,1B65,F1
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 6,1B65,F2
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 7,1B66,13
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 7,1B66,12
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 7,1B66,F1
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 7,1B66,F2
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 8,1B67,13
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 8,1B67,12
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 8,1B67,F1
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 8,1B67,F2
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 9,1B68,13
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 9,1B68,12
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 9,1B68,F1
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 9,1B68,F2
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 10,1B69,12
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 11,1B6A,12
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 12,1B6B,12
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 13,1B6C,12
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 14,1B6D,12
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 15,1B6E,12
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Cell sensing lines - Module 16,1B6F,12
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Unknown DTC,01B1,28
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Unknown DTC,01B1,28
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Unknown DTC,0FD0,16
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Unknown DTC,0FD0,16
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Unknown DTC,0FD0,06
+LBC (HEV)_29b   - Name: RBMS_MCPU_EV2020_300x_50xx_CL_V1.4,Unknown DTC,0FD0,06
+Function: LBC2_29b   - Name: RBMS_SCPU_EV2020_300x_50xx_CL_V1.4,Pack module temperature sensor (SCPU),1BB4,98
+Function: LBC2_29b   - Name: RBMS_SCPU_EV2020_300x_50xx_CL_V1.4,CAN current sensor (SCPU)1,1BB5,87
